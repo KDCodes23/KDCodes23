@@ -1,5 +1,5 @@
 <!-- Profile Image -->
-<img src="./KD_transparent.png" width="60px" align="right" />
+<img src="./KD_transparent.png" width="80px" align="left" /><br>
 
 <br/><br/>
 
