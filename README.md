@@ -1,14 +1,14 @@
 <!-- Profile Image -->
-<img src="./KD_transparent.png" width="80px" align="left" />
-
-<br/>
+<img src="./KD_transparent.png" width="80px" />
+<br>
+<br>
 
 # Hello ✨  
 ## I'm **Kanishka Dutta** 🗿
 
-> **` Live as if you were to die tomorrow. Learn as if you were to live forever. `**
+ **` Live as if you were to die tomorrow. Learn as if you were to live forever. `**
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=kdcodes23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/kdcodes23?label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/kdcodes23?label=Stars" alt="Stars" />
