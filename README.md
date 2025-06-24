@@ -1,7 +1,5 @@
 <!-- Profile Image -->
 <img src="./KD_transparent.png" width="80px" />
-<br>
-<br>
 
 # Hello ✨  
 ## I'm **Kanishka Dutta** 🗿
